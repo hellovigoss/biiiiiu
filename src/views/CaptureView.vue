@@ -24,7 +24,7 @@
 </template>
 
 <script>
-    const urlPrefix = "http://hellovigoss.github.io/ws-recver.html?socketid="
+    const urlPrefix = "http://42.192.18.81:8082/ws-recver.html?socketid="
     import msg from '@/assets/libs/msg'
     import constants from '@/assets/libs/constant.js'
 
